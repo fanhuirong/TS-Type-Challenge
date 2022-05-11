@@ -1,0 +1,26 @@
+{
+  "name": "ts-type-challenge",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fanhuirong/TS-Type-Challenge.git"
+  },
+  "author": "kunkun",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fanhuirong/TS-Type-Challenge/issues"
+  },
+  "homepage": "https://github.com/fanhuirong/TS-Type-Challenge#readme",
+  "devDependencies": {
+    "ts-node": "^10.7.0",
+    "typescript": "^4.6.4"
+  },
+  "dependencies": {
+    "@type-challenges/utils": "^0.1.1"
+  }
+}
